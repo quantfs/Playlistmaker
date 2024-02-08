@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.novomet.playlistmaker"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.novomet.playlistmaker"
